@@ -1,4 +1,4 @@
-
+/*
 function comparePassword(pass1, pass2) {
   password = pass1
   confirmPassword = pass2
@@ -11,3 +11,4 @@ function comparePassword(pass1, pass2) {
 let password = prompt("Enter your password")
 let confirm = prompt("Confirm your password")
 let passwordComparison = comparePassword(password, confirm)
+*/
